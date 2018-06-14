@@ -1,0 +1,2 @@
+# Advanced-Database-Project-1
+we are going to implement a simple verifier and permission checker for a database management system. We are going to start with assuming the parser has done its job and has passed to us a text file in a very specific format. Your job is to first create the system catalog tables in your Oracle account, and then write a program in Java to simulate the job of the verifier. Once this is done, add in the permission checker.
